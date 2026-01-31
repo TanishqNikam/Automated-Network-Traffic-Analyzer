@@ -74,7 +74,7 @@ This project demonstrates how raw packet captures (PCAPs) can be transformed int
 
 ## 📊 Results
 
-- Analyzed **100+ packets** from live traffic captures  
+- Analyzed packets from live traffic captures  
 - Successfully identified the ICMP traffic source IP with **100% accuracy**  
 - Reduced manual packet inspection effort by **~65%** using automation
 
